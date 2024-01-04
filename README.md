@@ -1,5 +1,5 @@
 **Hello to Myself**
-
+--------------------
 - 👋 Hi, I’m @RitamSanyal
 - <⁄> I’m interested in coding in Java,C,C++,Python,HTML,CSS,JS and popular frontend and backend frameworks
 - 👨‍💻 I’m currently learning Java(Intermediate) then will stift to HTML,CSS,JS and popular frontend frameworks
