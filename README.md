@@ -1,6 +1,5 @@
-**Hello Devs and Fello Contributers**
-
-*Below is a quick description of myself*
+*Hello Devs and Fello Contributers*
+Below is a quick description of myself
 --------------------
 - 👋 Hi, I’m @RitamSanyal
 - <⁄> I’m interested in coding in Java,C,C++,Python,HTML,CSS,JS and popular frontend and backend frameworks
