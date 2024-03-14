@@ -10,6 +10,8 @@ Below is a quick description of myself
 - 🎓 Currently a college student at Gurunanak Institute of Technology, Sodepur.
 - 💞️ I’m looking to collaborate on coding with C, C++ and Frontend
 - 📫 How to reach me ritamsanyal22@gmail.com or at LinkedIn at https://www.linkedin.com/in/ritamsanyal/
+
+<a href="https://app.daily.dev/ritamsanyal"><img src="https://api.daily.dev/devcards/v2/Lj0GPuaWjUEM2APIuXeLz.png?r=yq2&type=wide" width="652" alt="Ritam Sanyal's Dev Card"/></a>
 <!---
 RitamSanyal/RitamSanyal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
