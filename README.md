@@ -11,7 +11,7 @@ Below is a quick description of myself
 - 🎓 Currently a college student at Gurunanak Institute of Technology, Sodepur.
 - 💞️ I’m looking to collaborate on coding with C, C++ and Frontend
 - 📫 Reach me at ritamsanyal22@gmail.com
-OR <a https://www.linkedin.com/in/ritamsanyal/>LinkedIn</a>
+OR <a href="https://www.linkedin.com/in/ritamsanyal/">LinkedIn</a>
 OR
 <a rel="me" href="https://mastodon.social/@ritamsanyal">Mastodon</a>
 
