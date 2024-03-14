@@ -10,7 +10,10 @@ Below is a quick description of myself
 - 📚 I have knowledge in Java(Intermediate) , C(Basic -> Intermediate) , C+(Intermediate) , Python(Basic) , HTML(Skillfull) , CSS(Intermediate) , JS(Beginner) , MongoDB(Intermediate) , SQL(Skillfull)
 - 🎓 Currently a college student at Gurunanak Institute of Technology, Sodepur.
 - 💞️ I’m looking to collaborate on coding with C, C++ and Frontend
-- 📫 How to reach me ritamsanyal22@gmail.com or at LinkedIn at https://www.linkedin.com/in/ritamsanyal/
+- 📫 Reach me at ritamsanyal22@gmail.com
+OR <a https://www.linkedin.com/in/ritamsanyal/>LinkedIn</a>
+OR
+<a rel="me" href="https://mastodon.social/@ritamsanyal">Mastodon</a>
 
 <!---
 RitamSanyal/RitamSanyal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
