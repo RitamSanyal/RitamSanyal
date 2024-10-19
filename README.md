@@ -1,5 +1,3 @@
-<a href="https://app.daily.dev/ritamsanyal"><img src="https://api.daily.dev/devcards/v2/Lj0GPuaWjUEM2APIuXeLz.png?type=wide&r=eo9" width="652" alt="Ritam Sanyal's Dev Card"/></a>
-<br>
 *Hello Devs and Fello Contributers*
 
 Below is a quick description of myself
